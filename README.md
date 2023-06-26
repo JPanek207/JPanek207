@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JPanek207
-- 👀 I’m interested in expanding my skillset and knowledge base to transition into an analyst role
+- 👀 I’m interested in expanding my skillset and knowledge base to enhance and automate my financial expertise
 - 🌱 I’m currently learning SQL, Python, Tableau
 
 
